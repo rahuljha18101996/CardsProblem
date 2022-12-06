@@ -10,10 +10,10 @@ Acceptance Criteria
 Step 1 
 ■ Build us a deck of cards in a C# Or Node console application 
 ■ Populate the deck of cards with 54 cards: 4 suits(clubs, diamonds,spades, hearts) 4-ace, and 2 jokers 
-■ Display the cards on the console app
+■ Display the cards on the console app.
 
 Step 2 
-■ Shuffle the deck of cards and display all the cards on the console app 
+■ Shuffle the deck of cards and display all the cards on the console app.
 
 Step 3 
 ■ Deal the cards, your operation should take in the number of players and the number of cards dealt to each player. 
