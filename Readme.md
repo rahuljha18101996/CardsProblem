@@ -3,7 +3,7 @@
 - We would like you to build us a deck of cards in a C# console app and do some normal card deck operations with this virtual set of cards. You will need to make some assumptions along the way, please be sure to call out these assumptions and explain your decisions after the coding portion of the interview is complete.
 - Keep in mind that you should complete each step before moving on to the next, and you should focus on doing each step to a point where you feel it is of high quality vs trying to get all the steps done.
 
-<img src="https://github.com/rahuljha18101996/DotNetCoreWebApps/blob/master/.img/Pipeline.png"/>
+<img src="https://github.com/rahuljha18101996/CardsProblem/blob/master/img/CardDeck.png"/>
 
 Acceptance Criteria
 
